@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DomainLayer.props" />
+</Project>

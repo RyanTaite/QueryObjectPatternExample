@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f973f2c0_002Dfbcc_002D4795_002D8e85_002D1f722d0de90a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FilterStatewideDashboardItems_NoFilter_ReturnsOnlyActiveItems" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B165A2FE-C2C3-4F1E-8871-BC3B0BE839C7::net8.0::DomainLayer.Tests.Infrastructure.Persistence.QueryObjects.Places.FilterQueryObjectTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B165A2FE-C2C3-4F1E-8871-BC3B0BE839C7::net8.0::DomainLayer.Tests.Infrastructure.Persistence.QueryObjects.Places.SortQueryObjectTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::557B3999-30CF-4E38-B3C1-30FAEC1680EC::net8.0::ServiceLayer.Tests.Place.PlaceServiceTests.GetPlaceListDtos_ShouldCallSelectPlacesForList_Once&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::557B3999-30CF-4E38-B3C1-30FAEC1680EC::net8.0::ServiceLayer.Tests.Place.PlaceServiceTests.GetPlaceListDtos_ShouldCallSelectPlacesForListOnce&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
