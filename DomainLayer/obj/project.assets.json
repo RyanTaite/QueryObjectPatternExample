@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryan.taite_betterlif\\Desktop\\RyansTest\\DomainLayer\\DomainLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ryan.taite_betterlif\\Desktop\\QueryObjectPatternExample\\DomainLayer\\DomainLayer.csproj",
       "projectName": "DomainLayer",
-      "projectPath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\RyansTest\\DomainLayer\\DomainLayer.csproj",
+      "projectPath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\QueryObjectPatternExample\\DomainLayer\\DomainLayer.csproj",
       "packagesPath": "C:\\Users\\ryan.taite_betterlif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\RyansTest\\DomainLayer\\obj\\",
+      "outputPath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\QueryObjectPatternExample\\DomainLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ryan.taite_betterlif\\AppData\\Roaming\\NuGet\\NuGet.Config",

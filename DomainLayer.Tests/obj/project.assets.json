@@ -5817,11 +5817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryan.taite_betterlif\\Desktop\\RyansTest\\DomainLayer.Tests\\DomainLayer.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ryan.taite_betterlif\\Desktop\\QueryObjectPatternExample\\DomainLayer.Tests\\DomainLayer.Tests.csproj",
       "projectName": "DomainLayer.Tests",
-      "projectPath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\RyansTest\\DomainLayer.Tests\\DomainLayer.Tests.csproj",
+      "projectPath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\QueryObjectPatternExample\\DomainLayer.Tests\\DomainLayer.Tests.csproj",
       "packagesPath": "C:\\Users\\ryan.taite_betterlif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\RyansTest\\DomainLayer.Tests\\obj\\",
+      "outputPath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\QueryObjectPatternExample\\DomainLayer.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ryan.taite_betterlif\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5838,8 +5838,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ryan.taite_betterlif\\Desktop\\RyansTest\\DomainLayer\\DomainLayer.csproj": {
-              "projectPath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\RyansTest\\DomainLayer\\DomainLayer.csproj"
+            "C:\\Users\\ryan.taite_betterlif\\Desktop\\QueryObjectPatternExample\\DomainLayer\\DomainLayer.csproj": {
+              "projectPath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\QueryObjectPatternExample\\DomainLayer\\DomainLayer.csproj"
             }
           }
         }

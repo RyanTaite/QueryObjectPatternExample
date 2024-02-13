@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OAbUWhG6PAx0I1nPL2wcRHSJ0VqVY6LW2uyVvYECFOQToaEnUOXEsn/6iUvVbRlpv0u++l0Y4ohV5l8nnLfc7A==",
+  "dgSpecHash": "oqtGFYI2+sKS4Si/YaSxjR2YDSczC3Ip4WwVeU3GTLWbX32RYy3X6fh627uixNoSaJFZ4wheVXFXjihqzjW4Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\RyansTest\\DomainLayer.Tests\\DomainLayer.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ryan.taite_betterlif\\Desktop\\QueryObjectPatternExample\\DomainLayer.Tests\\DomainLayer.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ryan.taite_betterlif\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\ryan.taite_betterlif\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
