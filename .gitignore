@@ -266,3 +266,6 @@ __pycache__/
 # VS Extension files
 *Settings.StyleCop
 /.vscode
+
+# Added stuff
+**/obj
